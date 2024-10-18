@@ -1,5 +1,5 @@
 readme.md
-# main commands to sjdvhg work with git
+# main commands to  work with git
 # git init
 # git help
 # git help config
@@ -30,3 +30,4 @@ readme.md
 # git tag --delete tag_name
 # git tag tag_name -m ""
 # git tag
+#
