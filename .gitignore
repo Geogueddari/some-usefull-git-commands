@@ -1,0 +1,32 @@
+readme.md
+# main commands to sjdvhg work with git
+# git init
+# git help
+# git help config
+# git config --global user.email "youremail@gmail.com"
+# git config --global user.name "your name"
+# git config --global alias.s "status"
+# git config --list
+# git status
+# git add <file>
+# git reset <file>
+# git commit
+# git commit -m "message"
+# git commit -a
+# .gitignore file
+# git log
+# git log -all --graph
+# git log --oneline
+# git log -n 2
+# git log -p readme.md
+# git log -n 1 -p readme.md
+# git diff
+# git diff cached
+# git show commit_id
+# git show commit_tag
+# git checkout commit_tag_or_commit_id
+# git checkout -- <file|folder>
+# git tag tag_name
+# git tag --delete tag_name
+# git tag tag_name -m ""
+# git tag
